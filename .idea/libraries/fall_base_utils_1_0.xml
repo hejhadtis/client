@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fall-base-utils-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fall-base-utils-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

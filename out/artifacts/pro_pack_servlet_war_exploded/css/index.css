@@ -1,0 +1,71 @@
+.box {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+.page-header {
+    margin: 0 !important;
+    /*padding-left: 20px;*/
+    background: #bce8f1;
+    text-align: center;
+}
+.left-box, .right-box {
+    width: 40%;
+    border: 1px solid #dfdfdf;
+}
+.center-box {
+    width: 20%;
+    text-align: center;
+}
+.title {
+    padding: 5px;
+    border-bottom: 1px solid #dfdfdf;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.default-btn{
+    margin: 15px 0;
+}
+.error-box {
+    font-size: 16px;
+    margin: 10px 0;
+}
+.vhidden {
+    visibility: hidden;
+}
+.warning-box{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 999999;
+    top: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.alert-btn {
+    width: auto;
+    position: absolute;
+    top: 365px;
+}
+.file-lib-box{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    position: fixed;
+    overflow: auto;
+    background: #dfdfdf;
+    z-index: 10;
+    max-height: 500px;
+    margin-left: 16.66666667%;
+    border: 1px solid #dfdfdf;
+}
+.add {
+    color: green;
+}
+.update{
+    color: blue;
+}
+.del{
+    color: red;
+}
